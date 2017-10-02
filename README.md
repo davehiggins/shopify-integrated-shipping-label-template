@@ -1,5 +1,8 @@
 # shopify-integrated-shipping-label-template
-Print your invoices on integrated shipping labels
+
+A4 Size Paper
+
+Print your Shopify packing and invoices on integrated shipping labels.
 
 Requirements:
 Please add Shopify's free "Order Printer" app to your shopify instance. This will give you easy access to the order templating aspect of your shop. 
